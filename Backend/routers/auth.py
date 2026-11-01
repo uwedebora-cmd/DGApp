@@ -157,7 +157,7 @@ def rebind_device(body: DeviceRebindRequest, db: Session = Depends(get_db)):
         ),
         message="Device rebound successfully"
     )
-#hchh
+#hchhGGGG
 
 
 
